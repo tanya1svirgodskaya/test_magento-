@@ -1,0 +1,1 @@
+/app/vendor/magento/module-re-captcha-webapi-ui/view/frontend/web/js/webapiReCaptcha.js
